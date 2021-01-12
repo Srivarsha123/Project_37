@@ -115,5 +115,6 @@ class Foods{
    else{
        this.feedDog.hide();
   }
+  }
 
 }
