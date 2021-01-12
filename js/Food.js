@@ -110,8 +110,10 @@ class Foods{
         foodObj.writeStock(foodS)
         dog.addImage(happyDogImg)
         console.log("hello")
-      });
+      });      
       }
+   else{
+       this.feedDog.hide();
   }
 
 }
